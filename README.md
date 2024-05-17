@@ -1,10 +1,10 @@
-###Netflix Dashboard Overview
+### Netflix Dashboard Overview
 
-#Description
+# Description
 
 This interactive dashboard provides a comprehensive visualization of Netflix's movie and TV show distribution across various dimensions. It aims to offer insights into Netflix's content strategy by analyzing data on the number of titles per country, genre preferences, ratings distributions, and trends over time.
 
-#Dashboard Components
+# Dashboard Components
 1. Total Movies and TV Shows by Country
 Visualization: World Map
 Purpose: Displays the distribution of Netflix titles across different countries, highlighting regions with the highest concentration of content.
