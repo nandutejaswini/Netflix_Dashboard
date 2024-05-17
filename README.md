@@ -31,7 +31,9 @@ The data used in this dashboard is sourced from Netflix's publicly available dat
 ## Built With
 
 Tableau: Used for creating and integrating all visual components of the dashboard.
+
 Mapbox: Employed for geospatial data visualization.
+
 OpenStreetMap: Utilized for the underlying map rendering.
 
 ## Version
