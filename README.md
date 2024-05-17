@@ -1,5 +1,7 @@
 ###Netflix Dashboard Overview
+
 #Description
+
 This interactive dashboard provides a comprehensive visualization of Netflix's movie and TV show distribution across various dimensions. It aims to offer insights into Netflix's content strategy by analyzing data on the number of titles per country, genre preferences, ratings distributions, and trends over time.
 
 #Dashboard Components
