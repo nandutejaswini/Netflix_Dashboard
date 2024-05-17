@@ -53,6 +53,4 @@ This dashboard is currently in version 1.0, with updates expected as new data be
 
 Tejaswini Nandu
 
-## Contact
 
-For feedback or queries, please reach out to [Your Contact Information].
