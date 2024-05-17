@@ -36,6 +36,12 @@ Mapbox: Employed for geospatial data visualization.
 
 OpenStreetMap: Utilized for the underlying map rendering.
 
+## Screenshots
+
+
+
+ ![Netflix Dashboard](https://github.com/nandutejaswini/Netflix-Dashboard/blob/main/netflix_dashboard.png) 
+
 ## Version
 This dashboard is currently in version 1.0, with updates expected as new data becomes available.
 
